@@ -1,0 +1,8 @@
+{
+  "name": "Método CASA — Portal de Interiorismo",
+  "description": "Plataforma integral de gestión de asesorías y diseño de interiores para Método Casa por Euge D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
